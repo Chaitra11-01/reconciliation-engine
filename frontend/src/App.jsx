@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const API_URL = "https://reconciliation-engine-50a6.onrender.com/api";
+const API_URL = "https://reconciliation-engine-1-5b32.onrender.com/api";
 
 function App() {
   const [tenants, setTenants] = useState([]);
