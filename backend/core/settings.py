@@ -17,7 +17,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     "127.0.0.1",
     "localhost",
-    "reconciliation-engine-50a6.onrender.com",
+    "reconciliation-engine-1-5b32.onrender.com",
 ]
 
 # Application definition
